@@ -1,6 +1,6 @@
-# Rental-Retail-Analytics-SQL
+# Retail-Customer_Analytics-SQL
 
-The case study performs Customer Analytics for a movie retail company, to understand Customer Behaviors, their Spend Patterns, and business’s growth pattern, thus providing the marketing insights, improved inventory management and recommendations.
+The case study performs Customer Analytics for a movie rental company, to understand Customer Behaviors, their Spend Patterns, and business’s growth pattern, thus providing the marketing insights, improved inventory management and recommendations.
 
 From Data Modeling to Advanced SQL Techniques (like Subqueries, Window Functions, CTEs) are used to get deeper and relevant understanding by addresssing mentioned objectives below.
 
